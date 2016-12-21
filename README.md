@@ -25,3 +25,7 @@
 Cookies
 - 保存
 - 读取
+
+## 截图
+
+![](https://github.com/zhihaofans/miniweb/raw/master/image/Screenshot.png)
