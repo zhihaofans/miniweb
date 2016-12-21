@@ -1,6 +1,10 @@
 # miniweb
 一个套用webview的简单浏览器(简单到设置和cookies功能都没有)
 
+##下载地址
+- [Github](https://github.com/zhihaofans/miniweb/releases/latest) 
+- [国内下载](https://android.zhihaofans.com/miniweb/download/miniweb.apk) 
+
 ## 现有功能：
 - 打开网址
 
