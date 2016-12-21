@@ -26,7 +26,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    String HomePage="http://browser.zhihaofans.com/via/v1.html";
+    String HomePage="http://www.baidu.com";
     private WebView webView;
     private Toolbar toolbar;
     private ProgressBar ProgressBar;
